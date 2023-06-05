@@ -14,9 +14,12 @@ with. The focus of this module is to be embedded within lab courses. Since class
 algorithms are versatile in application, they can be applied to other physics curricula besides optics.
 
 # Data Science Objectives
-This module intends to introduce students to classification techniques, such as:
+This module intends to introduce students to classification techniques, such as: 
+
 -Make predictions of the speed of light through mediums using logistical regression
+
 -Distinction of classes for refractive index data using Support Vector Machine
+
 -Apply these techniques to classify optical materials by application.
 
 Students will become familiar with libraries such as NumPy, Pandas, matplotlib, and Scikit-Learn
