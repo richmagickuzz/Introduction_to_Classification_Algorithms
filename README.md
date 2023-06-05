@@ -30,5 +30,5 @@ are in the process or have already understood the interaction of light with matt
 # Estimated Amount of Time
 
 It is estimated that these notebooks could be completed in a standard 2–3-hour lab. If necessary,
-the logistical regression module can be broken up into two (~1.5 hours) sessions, and the support
-vector machine module extended (~ 2 hours).
+the logistical regression module can be broken up into two (1.5 hours) sessions, and the support
+vector machine module extended (2 hours).
